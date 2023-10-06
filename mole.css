@@ -1,23 +1,29 @@
 /* Your code here */
 
-.wgs {
-height: 640; 
-position: relative;
-width: 482;  
 
+.wgs__mole-hill {
+  height: 220px; 
+  position: absolute;
+  width: 640px; 
+  bottom: 0; 
 }
 
 .wgs__mole-head {
-  height: 376; 
+  height: 356px; 
   position: absolute;
-  width: 356; 
+  width: 376px; 
+  left: 109px; 
 }
 
-.wgs__mole-hill{
-  height: 640; 
-  position: absolute;
-  width: 220; 
+.wgs {
+height: 482px; 
+position: relative;
+width: 640px;  
+
 }
+
+
+
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 /* .sb {
