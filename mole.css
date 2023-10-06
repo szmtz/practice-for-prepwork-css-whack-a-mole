@@ -1,6 +1,23 @@
 /* Your code here */
 
+.wgs {
+height: 640; 
+position: relative;
+width: 482;  
 
+}
+
+.wgs__mole-head {
+  height: 376; 
+  position: absolute;
+  width: 356; 
+}
+
+.wgs__mole-hill{
+  height: 640; 
+  position: absolute;
+  width: 220; 
+}
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 /* .sb {
