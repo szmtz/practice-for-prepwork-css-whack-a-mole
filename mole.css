@@ -2,6 +2,7 @@
 
 
 .wgs__mole-hill {
+  /* display: inline-block;  */
   height: 220px; 
   position: absolute;
   width: 640px; 
@@ -16,10 +17,16 @@
 }
 
 .wgs {
+display: inline-block; 
 height: 482px; 
 position: relative;
 width: 640px;  
+overflow: hidden; 
 
+}
+
+.wgs__mole-head--hidden {
+  margin-top: 482px;
 }
 
 
