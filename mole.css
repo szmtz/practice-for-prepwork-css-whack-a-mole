@@ -1,19 +1,28 @@
 /* Your code here */
 
 
-.wgs__mole-hill {
+
+
+
+
+
+
+
+
+
+/* .wgs__mole-hill {
   /* display: inline-block;  */
-  height: 220px; 
+  /* height: 440px; 
   position: absolute;
   width: 640px; 
   bottom: 0; 
 }
 
 .wgs__mole-head {
-  height: 356px; 
+  height: px; 
   position: absolute;
-  width: 376px; 
-  left: 109px; 
+  width: 356px; 
+  left: 105px; 
   transition-property: margin-top; 
   transition-duration: .25s;
 
@@ -30,7 +39,7 @@ overflow: hidden;
 
 .wgs__mole-head--hidden {
   margin-top: 482px;
-}
+} */ 
 
 
 
