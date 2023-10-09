@@ -1,6 +1,24 @@
 /* Your code here */
 
+.wgs {
+  height: 482px; 
+  position: relative;  
+  width: 640;
+}
 
+.wgs__mole-head {
+  height: 356px; 
+  position: absolute;  
+  width: 376;
+
+}
+
+.wgs__mole-hill {
+  height: 220px; 
+  position: absolute;  
+  width: 640px;
+
+}
 
 
 
